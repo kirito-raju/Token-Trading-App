@@ -83,7 +83,7 @@ npm start
 
 ## 🚀 Deployment
 
-Deployed on Vercel: [Your Vercel URL]
+Deployed on Vercel: [https://token-trading-app.vercel.app/]
 
 ## 📄 License
 
