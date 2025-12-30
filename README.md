@@ -79,7 +79,7 @@ npm start
 
 ## 🎥 Demo Video
 
-[Link to YouTube demo video - 1-2 minutes]
+[https://youtu.be/rG9Y_hJD7Ag]
 
 ## 🚀 Deployment
 
