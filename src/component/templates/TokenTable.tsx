@@ -57,7 +57,7 @@ export const TokenTable = () => {
         ? tokens
         : tokens.filter((t) => t.category === activeCategory);
 
-    return filtered.sort((a, b) => {
+    return [...filtered].sort((a, b) => {
       const aVal = a[sortField];
       const bVal = b[sortField];
       const modifier = sortDirection === "asc" ? 1 : -1;

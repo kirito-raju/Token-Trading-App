@@ -75,7 +75,7 @@ npm start
 
 ## 📸 Screenshots
 
-[Add screenshots of different viewport sizes here]
+![alt text](image.png) ![alt text](<Screenshot from 2025-12-30 15-35-31.png>)
 
 ## 🎥 Demo Video
 
